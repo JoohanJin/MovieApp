@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  http: ^0.13.5
+  palette_generator: ^0.3.3+2
 
 dev_dependencies:
   flutter_test:

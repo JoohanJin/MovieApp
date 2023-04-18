@@ -1,0 +1,11 @@
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/movieapp
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/joe/Projects/Flutter/movieapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
